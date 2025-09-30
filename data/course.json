@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ]
+  ],
+  "legacy_uid": "a5077bce-ecd0-4fb6-ec4d-3d845d64e74f",
+  "instructors": {
+    "content": [
+      "3e347107-d66a-951b-3815-6e579e806552"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c44a0f43-7b8d-4e89-07ab-90563ec79430",
+    "website": "esd-72-engineering-risk-benefit-analysis-spring-2007"
+  },
+  "course_title": "Engineering Risk-Benefit Analysis",
+  "hide_download": true,
+  "course_description": "ERBA (ESD.72) emphasizes three methodologies - reliability and probabilistic risk assessment (RPRA), decision analysis (DA), and cost-benefit analysis (CBA). In this class, the issues of interest are: the risks associated with large engineering projects such as nuclear power reactors, the International Space Station, and critical infrastructures; the development of new products; the design of processes and operations with environmental externalities; and infrastructure renewal projects.\n",
+  "department_numbers": [
+    "ESD",
+    "1",
+    "2",
+    "3",
+    "6",
+    "10",
+    "16",
+    "22"
+  ],
+  "extra_course_numbers": "1.155,2.963,3.577,6.938,10.816,16.862,22.82",
+  "primary_course_number": "ESD.72",
+  "course_image_thumbnail": {
+    "content": "bd8520ac-8192-6f90-16cd-ec7e4a3c5d63",
+    "website": "esd-72-engineering-risk-benefit-analysis-spring-2007"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "22e146eb-bcd1-40ca-b493-8118adf0649c",
+  "site_short_id": "esd.72-spring-2007",
+  "site_url_path": "courses/esd-72-engineering-risk-benefit-analysis-spring-2007",
+  "title": "Course Metadata"
+}
